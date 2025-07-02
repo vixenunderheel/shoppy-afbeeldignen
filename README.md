@@ -1,1 +1,1 @@
-# shoppy-afbeeldignen
+# shoppy-images
